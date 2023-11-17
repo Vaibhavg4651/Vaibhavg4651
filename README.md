@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
 
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Doubtless](https://play.google.com/store/apps/details?id=com.doubtless.doubtless&hl=en)
 
