@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I’m VAIBHAV GUPTA :) 👋 </h2>
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE+,+WEB+DEV+and+communitiy+Building+👨‍💻" /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=50&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE+,+WEB+DEV+and+communitiy+Building+👨‍💻" /></a>
 </p>
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
@@ -8,12 +8,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vaibhavg4651&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhavg4651" /> </p>
-- 🌱 I’m currently learning **Machine Learning**
+<img align="right" width="300" height="300" style="margin:0px 20px" src="https://pin.it/7h0iVVihm" >
+<br>
+<a align='center' href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
+</a>
 
-- 👯 I’m looking to collaborate on [Projects](https://play.google.com/store/apps/details?id=com.doubtless.doubtless&hl=en)
+<ul>
+<li>- 🌱 I’m currently learning **Machine Learning**</li>
 
-- 💬 Ask me about **Web Development**
+<li>- 👯 I’m looking to collaborate on `Dev Projects`</li>
+
+<li>- 💬 Ask me about **Web Development**</li>
+</ul>
 
 <p align="center">
 
