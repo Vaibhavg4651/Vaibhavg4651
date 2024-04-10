@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
 
-<img align="right" width="550" height="380" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
+<img align="right" width="550" height="350" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 <br>
 <a align='center' href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
