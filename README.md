@@ -16,7 +16,7 @@
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently learning &#160 **Machine Learning**
-- 👯 I’m looking to collaborate on &#160 `Dev Projects`
+- 👯 I’m looking to collaborate on `Dev Projects`
 - 💬 Ask me about **Web Development**
 - ♟️ And yea Let's play Chess? ;)
 
