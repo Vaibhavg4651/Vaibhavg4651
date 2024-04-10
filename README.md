@@ -1,9 +1,9 @@
-<p align="center">
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-</p>
 <h2 align="center"> Hi, I’m VAIBHAV GUPTA :) 👋 </h2>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE+,+WEB+DEV+and+communitiy+Building+👨‍💻" /></a>
+</p>
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
@@ -16,7 +16,9 @@
 - 💬 Ask me about **Web Development**
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
