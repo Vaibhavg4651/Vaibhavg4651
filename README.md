@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I’m VAIBHAV GUPTA :) 👋 </h2>
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE;WEB+DEV;communitiy+Building+👨‍💻" /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE;WEB+DEV;Communitiy+Building+👨‍💻" /></a>
 </p>
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
 
-<img align="right" width="550" height="300" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
+<img align="right" width="550" height="400" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 <br>
 <a align='center' href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
