@@ -15,12 +15,10 @@
 </a>
 
 **Talking about Personal Stuffs:**
-<ul>
-  <li>- 🌱 I’m currently learning **Machine Learning**</li>
-  <li>- 👯 I’m looking to collaborate on `Dev Projects`</li>
-  <li>- 💬 Ask me about **Web Development**</li>
-  <li>- ♟️ And yea Let's play Chess? ;) </li>
-</ul>
+- 🌱 I’m currently learning **Machine Learning**
+- 👯 I’m looking to collaborate on `Dev Projects`
+- 💬 Ask me about **Web Development**
+- ♟️ And yea Let's play Chess? ;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
