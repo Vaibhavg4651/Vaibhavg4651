@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I’m VAIBHAV GUPTA :) 👋 </h2>
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE+,+WEB+DEV+and+communitiy+Building+👨‍💻" /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE;WEB+DEV;communitiy+Building+👨‍💻" /></a>
 </p>
 <p align="center">
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
