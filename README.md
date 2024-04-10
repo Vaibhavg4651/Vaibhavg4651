@@ -15,8 +15,8 @@
 </a>
 
 **Talking about Personal Stuffs:**
-- 🌱 I’m currently learning     **Machine Learning**
-- 👯 I’m looking to collaborate on    `Dev Projects`
+- 🌱 I’m currently learning &nbsp **Machine Learning**
+- 👯 I’m looking to collaborate on &nbsp `Dev Projects`
 - 💬 Ask me about **Web Development**
 - ♟️ And yea Let's play Chess? ;)
 
