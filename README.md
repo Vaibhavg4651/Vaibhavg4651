@@ -9,25 +9,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vaibhavg4651" alt="Vaibhavg4651" /></a> </p>
 
-<img align="right" width="300" height="300" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
+<img align="right" width="550" height="300" style="margin:0px 20px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" >
 <br>
 <a align='center' href="https://visitcount.itsvg.in">
 <img src="https://visitcount.itsvg.in/api?id=morpheus-30&label=Profile%20Views&color=12&pretty=true" />
 </a>
 
+**Talking about Personal Stuffs:**
 <ul>
-<li>- 🌱 I’m currently learning **Machine Learning**</li>
-
-<li>- 👯 I’m looking to collaborate on `Dev Projects`</li>
-
-<li>- 💬 Ask me about **Web Development**</li>
+  <li>- 🌱 I’m currently learning **Machine Learning**</li>
+  <li>- 👯 I’m looking to collaborate on `Dev Projects`</li>
+  <li>- 💬 Ask me about **Web Development**</li>
+  <li>- ♟️ And yea Let's play Chess? ;) </li>
 </ul>
-
-<p align="center">
-
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
-
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +39,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhavg4651&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavg4651&" alt="Vaibhavg4651" />
 </a>
+</p>
+
+<p align="center">
+
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 </p>
 
 ---
