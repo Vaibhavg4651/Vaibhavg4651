@@ -40,7 +40,8 @@
 </a>
 </p>
 
-![Vaibhavg4651's GitHub | Dependencies](https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark)(https://quine.sh?utm_source=widgets&utm_campaign=Vaibhavg4651)
+[![Vaibhavg4651's GitHub | Dependencies](https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vaibhavg4651)
+[![Vaibhavg4651's GitHub | Languages Over Time](https://stats.quine.sh/Vaibhavg4651/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Vaibhavg4651)
 
 <p align="center">
 
