@@ -33,8 +33,9 @@
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-  ![Vaibhav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide_contributor_rank=false&limit=5&order_by=contributions&theme=algolia)
 <p align="center">
+  
+  ![Vaibhav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide_contributor_rank=false&limit=5&order_by=contributions&theme=algolia)
 <a href="https://github.com/Vaibhavg4651">  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavg4651&" alt="Vaibhavg4651" />
   <img align="center" src="https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark" alt="Vaibhavg4651" />
