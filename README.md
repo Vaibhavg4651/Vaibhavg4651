@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavg4651&" alt="Vaibhavg4651" />
   <img align="center" src="https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark" alt="Vaibhavg4651" />
   
-  ![Vaibhavg4651's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&combine_all_yearly_contributions=true)
+  ![Vaibhavg4651's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide=B,B%2B)
 </a>
 </p>
 
