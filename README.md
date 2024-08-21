@@ -35,11 +35,11 @@
 
 <p align="center">
 <a href="https://github.com/Vaibhavg4651">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhavg4651&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  ![Vaibhav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide_contributor_rank=false&limit=5&order_by=contributions&theme=algolia)
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavg4651&" alt="Vaibhavg4651" />
   <img align="center" src="https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark" alt="Vaibhavg4651" />
   
-  ![Vaibhav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide_contributor_rank=false&limit=5&order_by=contributions)
 </a>
 </p>
 
