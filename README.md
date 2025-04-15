@@ -38,12 +38,6 @@
   ![Vaibhav's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vaibhavg4651&hide_contributor_rank=false&limit=5&order_by=contributions&theme=algolia)
 </p>
 
-<a href="https://github.com/Vaibhavg4651">  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavg4651&" alt="Vaibhavg4651" />
-  <img align="center" src="https://stats.quine.sh/Vaibhavg4651/dependencies?theme=dark" alt="Vaibhavg4651" />
-  
-</a>
-
 <p align="center">
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
